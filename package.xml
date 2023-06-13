@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>my forst package</description>
-  <maintainer email="yb@todo.todo">yb</maintainer>
+  <description>my first package</description>
+  <maintainer email="boutelidjaneyounes@gmail.com">yb</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
